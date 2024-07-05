@@ -49,8 +49,8 @@ h3{font-size:1.57em;}
 h4{font-size:1.33em;}
 p{list-style:none; margin:24px auto 24px auto; padding:0px; width:900px; text-align:left;}
 li a, p a {text-decoration:underline; text-decoration-color:#b8860b;}
-ul{list-style:none; margin:24px auto 24px auto; padding:0px; width:800px; text-align:left;}
-ul li{list-style:none; margin:0px auto 0px auto; padding:0px; text-align:left;}
+ul{list-style:circle; margin:24px auto 24px auto; padding:0px; width:800px; text-align:left;}
+ul li{list-style:circle; margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
 b,strong{font-weight:bold;}
 sup{
@@ -116,13 +116,6 @@ td.flyer{white-space:nowrap; width:50%; text-align:center; vertical-align:middle
 td.sponsor img{width: 100%}
 
 footer{font-size:0.55em; margin-top:12em; text-align:center;}
-
-li{
-  list-style: circle;
-  /* list-style: none; */
-  /* list-style: disc; */
-  /* list-style: square; */
-}
 
 /* My hacky way of making the site mobile-friendly */
 @media only screen and (max-width: 1100px) {
