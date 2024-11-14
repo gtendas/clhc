@@ -64,7 +64,9 @@ sub{
     line-height: 0;
 }
 table{
-    width: 1000px;
+    table-layout: fixed ;
+    width: 100% ;
+    
     margin: 12px auto 24px auto;
     float: center;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
