@@ -138,13 +138,6 @@ nav {
   margin : 40px auto; 
 }
 
-span {
-  padding : 30px;
-  background : #505050;   
-  cursor : pointer;
-  display: block;
-}
-
 .slide {
   clear:both;
   width:100%;
