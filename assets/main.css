@@ -149,7 +149,12 @@ footer{font-size:0.55em; margin-top:12em; text-align:center;}
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+    height:auto;
+    z-index: 11; 
+    max-height:200px;
+    transition-property: all;
+    transition-duration: 1s;
+    border-bottom: 10px solid #25272a;
 }
 
 
