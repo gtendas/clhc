@@ -145,12 +145,6 @@ span {
   display: block;
 }
 
-span::after {
-  float: right;
-  right: 10%;
-  content: "+";
-}
-
 .slide {
   clear:both;
   width:100%;
