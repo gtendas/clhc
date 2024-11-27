@@ -140,7 +140,7 @@ nav {
 
 span {
   padding : 30px;
-  font-size : 1.2em;
+  background : #505050;   
   cursor : pointer;
   display: block;
 }
