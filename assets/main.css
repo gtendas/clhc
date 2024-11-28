@@ -90,7 +90,7 @@ th,td{
 .pretitle{color:#b8860b; font-size:0.40em; font-weight: lighter;}
 
 /* Navigation Links (Home, Registration, etc) */
-table.navigation{width:800px;}
+table.navigation{width:1000px;}
 td.navigation{font-size:1.5em; white-space:nowrap; width:25%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
 
 /* Sponsor Images */
