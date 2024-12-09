@@ -52,6 +52,7 @@ li a, p a {text-decoration:underline; text-decoration-color:#b8860b;}
 ul{list-style:circle; margin:12px auto 12px auto; padding:0px; width:800px; text-align:left;}
 ul li{list-style:circle; margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
+norm{font-style:normal;}
 b,strong{font-weight:bold;}
 sup{
     vertical-align: super;
